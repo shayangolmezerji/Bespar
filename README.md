@@ -63,7 +63,7 @@ The syntax is clean and straightforward. Here are the core commands you'll need.
 
 ```bash
 # Add a new task
-todo add "Walk the dog, bro"
+todo add "Fix that mf bug bro"
 
 # Add a more complex task
 todo add "Finish the Bespar project README.md"
