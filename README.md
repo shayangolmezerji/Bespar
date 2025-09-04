@@ -89,6 +89,3 @@ This project is licensed under the [**DON'T BE A DICK PUBLIC LICENSE 1.2**](http
 ### Author
 
 Authored and maintained by [Shayangolmezerji](https://github.com/shayangolmezerji).
-
-```
-```
